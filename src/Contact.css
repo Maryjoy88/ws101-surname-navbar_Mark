@@ -1,0 +1,13 @@
+/* Contact.css */
+.contact {
+    background-color: #d4edda;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #28a745;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.contact h2 {
+    color: #155724;
+}
